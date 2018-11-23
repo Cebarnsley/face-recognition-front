@@ -38,7 +38,7 @@ const initialState = {
 class App extends Component {
   constructor() {
     super();
-    this.state= initialState;
+    this.state = initialState;
   }
 
   loadUser = (data) => {
