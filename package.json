@@ -2,7 +2,7 @@
   "name": "facerecognitionbrain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cebarnsley.github.io/face-recognition-front",
+  "homepage": "https://face-finder-7961.herokuapp.com/",
   "dependencies": {
     "clarifai": "^2.8.1",
     "cors": "^2.8.4",
