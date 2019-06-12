@@ -2,6 +2,7 @@
   "name": "facerecognitionbrain",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cebarnsley.github.io/face-recognition-front",
   "dependencies": {
     "clarifai": "^2.8.1",
     "cors": "^2.8.4",
@@ -18,4 +19,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
+  
 }
