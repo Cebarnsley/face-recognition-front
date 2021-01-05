@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://cebarnsley.github.io/face-recognition/",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "braces": "^3.0.2",
     "clarifai": "^2.9.1",
     "cors": "^2.8.5",
